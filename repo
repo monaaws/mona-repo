@@ -1,3 +1,7 @@
 hello repo
 modifying first
+<<<<<<< HEAD
 trying changes  
+=======
+trying to changes in both 
+>>>>>>> f982a84234e04f2e7b733271f77fc326051cf31e
